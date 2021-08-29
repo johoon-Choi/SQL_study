@@ -1,0 +1,5 @@
+(INNER) JOIN
+LEFT JOIN
+RIGHT JOIN
+OUTER JOIN  #At Oracle
+            #MySQL 에선 LEFT JOIN, RIGHT JOIN 의 UNION 을 통해 형성 가능

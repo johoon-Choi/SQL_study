@@ -13,3 +13,4 @@ ORDER BY COUNT(Occupation) ASC, Occupation ASC;
 
 #CONCAT
 #GROUP BY
+ 

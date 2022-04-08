@@ -1,8 +1,10 @@
 # SQL_study
-By Leet, HackerRank
+By Leetcode, HackerRank
 
-<div align="center"><h2> functions </h2></div>
+
+<div align="center"><h1> functions </h1></div>
 
 ## GROUP BY
 - 그룹화
-- HAVING
+- HAVING ~
+- - ㅇㅇ

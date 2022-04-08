@@ -1,5 +1,4 @@
-# SQL_study
-By Leetcode, HackerRank
+//Im studying MySQLBy with Leetcode, HackerRank
 
 
 <div align="center"><h1> functions </h1></div>

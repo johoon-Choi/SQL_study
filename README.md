@@ -6,5 +6,4 @@ By Leetcode, HackerRank
 
 ## GROUP BY
 - 그룹화
-- HAVING ~
-  HAVING 조건에 따른 GROUP 들만 생성이 된다.
+- **HAVING** : HAVING 조건에 따른 GROUP 들만 생성이 된다.

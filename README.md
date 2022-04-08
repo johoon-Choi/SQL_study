@@ -11,4 +11,4 @@ By Leetcode, HackerRank
 ## ORDER BY
 - 오름차순(ASC) / 내림차순(DESC)
 - Default : 오름차순(ASC)
-- Ex) *ORDER BY group_id ASC, id ASC* : group_id 기준으로 오름차순 정렬 후 같은 group_id Data들에 대해선 id 로 오름차순 정렬
+- Ex) *`ORDER BY group_id ASC, id ASC`* : group_id 기준으로 오름차순 정렬 후 같은 group_id Data들에 대해선 id 로 오름차순 정렬

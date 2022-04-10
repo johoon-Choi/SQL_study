@@ -16,10 +16,10 @@
 ## JOIN
 - 설명 Link : https://johoonday.tistory.com/179
 - 두 Table의 교집합에 해당되는 Column을 정하고, 함께 참고한다.
-- (Ex)
+- Ex) `인사부에 해당되는 임직원들의 id와 이름을 출력`
 ```MySQL
 SELECT u.id, u.name 
 FROM users AS u
 JOIN depts AS d ON u.dept_id = d.id
-WHERE d.id = 4
+WHERE d.name = '인사부'
 ```

@@ -16,7 +16,8 @@
 ## JOIN
 - 설명 Link : https://johoonday.tistory.com/179
 - 두 Table의 교집합에 해당되는 Column을 정하고, 함께 참고한다.
-- Ex) ```MySQL
+- {Ex}
+```MySQL
 SELECT u.id, u.name 
 FROM users AS u
 JOIN depts AS d ON u.dept_id = d.id

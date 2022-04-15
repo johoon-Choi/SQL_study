@@ -23,3 +23,22 @@ FROM users AS u
 JOIN depts AS d ON u.dept_id = d.id
 WHERE d.name = '인사부'
 ```
+
+## CASE
+- switch ~ case 문
+- Ex) `학점 출력`
+- ```MySQL
+- SELECT id
+-        (
+-         CASE
+-           WHEN 90 <= SCORE
+-           THEN 'A'
+-           WHEN 80 <= SCORE
+-           THEN 'B'
+-           WHEN 70 <= SCORE
+-           THEN 'C'
+-           ELSE 'D'
+-         END
+-        ) AS 'grade'
+- FROM students
+- ```

@@ -1,4 +1,4 @@
-"Im studying MySQLBy with Leetcode, HackerRank"
+"Im studying MySQL with Leetcode, HackerRank"
 
 
 <div align="center"><h1> functions </h1></div>
